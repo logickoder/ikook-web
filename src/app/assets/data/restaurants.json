@@ -1,0 +1,178 @@
+[
+  {
+    "food_image": "https://loremflickr.com/320/240/food,italian?random=1",
+    "food_type": "Italian",
+    "dish_name": "Spaghetti Carbonara",
+    "price": 12.99,
+    "owner_name": "Mario Rossi",
+    "owner_picture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "location": "Rome, Italy",
+    "average_review": 4.5,
+    "number_of_reviews": 150
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,chinese?random=2",
+    "food_type": "Chinese",
+    "dish_name": "Kung Pao Chicken",
+    "price": 10.50,
+    "owner_name": "Li Wei",
+    "owner_picture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "location": "Beijing, China",
+    "average_review": 4.7,
+    "number_of_reviews": 220
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,mexican?random=3",
+    "food_type": "Mexican",
+    "dish_name": "Tacos al Pastor",
+    "price": 8.99,
+    "owner_name": "Juan Carlos",
+    "owner_picture": "https://randomuser.me/api/portraits/men/3.jpg",
+    "location": "Mexico City, Mexico",
+    "average_review": 4.6,
+    "number_of_reviews": 180
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,indian?random=4",
+    "food_type": "Indian",
+    "dish_name": "Chicken Tikka Masala",
+    "price": 11.50,
+    "owner_name": "Priya Patel",
+    "owner_picture": "https://randomuser.me/api/portraits/women/4.jpg",
+    "location": "Mumbai, India",
+    "average_review": 4.8,
+    "number_of_reviews": 250
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,japanese?random=5",
+    "food_type": "Japanese",
+    "dish_name": "Sushi Platter",
+    "price": 14.99,
+    "owner_name": "Haruto Tanaka",
+    "owner_picture": "https://randomuser.me/api/portraits/men/5.jpg",
+    "location": "Tokyo, Japan",
+    "average_review": 4.9,
+    "number_of_reviews": 300
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,french?random=6",
+    "food_type": "French",
+    "dish_name": "Coq au Vin",
+    "price": 13.75,
+    "owner_name": "Sophie Martin",
+    "owner_picture": "https://randomuser.me/api/portraits/women/6.jpg",
+    "location": "Paris, France",
+    "average_review": 4.4,
+    "number_of_reviews": 120
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,greek?random=7",
+    "food_type": "Greek",
+    "dish_name": "Moussaka",
+    "price": 9.50,
+    "owner_name": "Nikos Papadopoulos",
+    "owner_picture": "https://randomuser.me/api/portraits/men/7.jpg",
+    "location": "Athens, Greece",
+    "average_review": 4.3,
+    "number_of_reviews": 100
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,thai?random=8",
+    "food_type": "Thai",
+    "dish_name": "Pad Thai",
+    "price": 10.99,
+    "owner_name": "Somchai Sukhumvit",
+    "owner_picture": "https://randomuser.me/api/portraits/men/8.jpg",
+    "location": "Bangkok, Thailand",
+    "average_review": 4.7,
+    "number_of_reviews": 210
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,american?random=9",
+    "food_type": "American",
+    "dish_name": "Cheeseburger",
+    "price": 8.50,
+    "owner_name": "John Doe",
+    "owner_picture": "https://randomuser.me/api/portraits/men/9.jpg",
+    "location": "New York, USA",
+    "average_review": 4.5,
+    "number_of_reviews": 160
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,mediterranean?random=10",
+    "food_type": "Mediterranean",
+    "dish_name": "Falafel Wrap",
+    "price": 7.75,
+    "owner_name": "Lina Rahman",
+    "owner_picture": "https://randomuser.me/api/portraits/women/10.jpg",
+    "location": "Beirut, Lebanon",
+    "average_review": 4.6,
+    "number_of_reviews": 140
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,spanish?random=11",
+    "food_type": "Spanish",
+    "dish_name": "Paella",
+    "price": 12.99,
+    "owner_name": "Carlos Garcia",
+    "owner_picture": "https://randomuser.me/api/portraits/men/11.jpg",
+    "location": "Barcelona, Spain",
+    "average_review": 4.8,
+    "number_of_reviews": 200
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,brazilian?random=12",
+    "food_type": "Brazilian",
+    "dish_name": "Feijoada",
+    "price": 11.25,
+    "owner_name": "Ana Silva",
+    "owner_picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "location": "Rio de Janeiro, Brazil",
+    "average_review": 4.4,
+    "number_of_reviews": 110
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,vietnamese?random=13",
+    "food_type": "Vietnamese",
+    "dish_name": "Pho",
+    "price": 9.99,
+    "owner_name": "Nguyen Tran",
+    "owner_picture": "https://randomuser.me/api/portraits/men/13.jpg",
+    "location": "Hanoi, Vietnam",
+    "average_review": 4.7,
+    "number_of_reviews": 170
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,lebanese?random=14",
+    "food_type": "Lebanese",
+    "dish_name": "Shawarma",
+    "price": 8.75,
+    "owner_name": "Hassan Ibrahim",
+    "owner_picture": "https://randomuser.me/api/portraits/men/14.jpg",
+    "location": "Beirut, Lebanon",
+    "average_review": 4.5,
+    "number_of_reviews": 130
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,turkish?random=15",
+    "food_type": "Turkish",
+    "dish_name": "Kebab",
+    "price": 10.25,
+    "owner_name": "Ahmet Yildirim",
+    "owner_picture": "https://randomuser.me/api/portraits/men/15.jpg",
+    "location": "Istanbul, Turkey",
+    "average_review": 4.6,
+    "number_of_reviews": 190
+  },
+  {
+    "food_image": "https://loremflickr.com/320/240/food,moroccan?random=16",
+    "food_type": "Moroccan",
+    "dish_name": "Tagine",
+    "price": 11.99,
+    "owner_name": "Fatima El Idrissi",
+    "owner_picture": "https://randomuser.me/api/portraits/women/16.jpg",
+    "location": "Marrakech, Morocco",
+    "average_review": 4.7,
+    "number_of_reviews": 160
+  }
+]
